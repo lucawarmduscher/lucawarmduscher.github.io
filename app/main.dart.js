@@ -49163,9 +49163,9 @@ case 1:return s.a.ch
 case 2:return s.a.cx}},
 $S:83}
 A.YI.prototype={
-$0(){switch(this.a){case 0:return"Durchfluss 6l/min \u2013 Kleiner Duschkopf oder z.B. bei wenig Wasserdruck oder mit Wasserspareinsatz"
-case 1:return"Durchfluss 8-10l/min \u2013 Mittlerer Duschkopf"
-case 2:return"Durchfluss 12 l/min oder mehr \u2013 Gro\xdfer Duschkopf, z.B. eine Regendusche"}},
+$0(){switch(this.a){case 0:return"Durchfluss 8 l/min \u2013 Kleiner Duschkopf oder z.B. bei wenig Wasserdruck oder mit Wasserspareinsatz"
+case 1:return"Durchfluss 10 l/min \u2013 Mittlerer Duschkopf"
+case 2:return"Durchfluss 14 l/min oder mehr \u2013 Gro\xdfer Duschkopf, z.B. eine Regendusche"}},
 $S:65}
 A.YJ.prototype={
 $0(){var s=0,r=A.a8(t.H),q=this,p,o,n,m
